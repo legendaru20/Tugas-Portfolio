@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2480px" height="3508px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2480 3507"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:url(#id0)}
+    .fil0 {fill:url(#id1)}
+    .fil1 {fill:url(#id2)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="980.009" y1="1909.03" x2="1483.1" y2="1598.4">
+   <stop offset="0" style="stop-opacity:1; stop-color:#9FCAEC"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#9C89BE"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="2041" y1="802.493" x2="1587.51" y2="1255.98">
+   <stop offset="0" style="stop-opacity:1; stop-color:#3F474A"/>
+   <stop offset="0.588235" style="stop-opacity:1; stop-color:#9280AD"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#9B7CB5"/>
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="773.066" y1="2222.74" x2="512.36" y2="2757.88">
+   <stop offset="0" style="stop-opacity:1; stop-color:#A0D9F6"/>
+   <stop offset="0.780392" style="stop-opacity:1; stop-color:#6962A3"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#32334E"/>
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_287437120">
+   <path class="fil0" d="M1768 709l367 0 0 367c0,150 -124,274 -274,274l-367 0 0 -367c0,-151 123,-274 274,-274z"/>
+   <path class="fil1" d="M600 2193l340 0 0 340c0,140 -114,255 -254,255l-341 0 0 -341c0,-140 115,-254 255,-254z"/>
+   <path class="fil2" d="M934 709l-179 233c-114,148 -121,407 -16,576l790 1281 179 -233c114,-148 121,-408 16,-577l-790 -1280z"/>
+  </g>
+ </g>
+</svg>
